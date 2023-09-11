@@ -1,0 +1,9 @@
+D:\CS\Bridgelabz\Project\Microservices.Ticketing.WebApi\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.deps.json
+D:\CS\Bridgelabz\Project\Microservices.Ticketing.WebApi\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.dll
+D:\CS\Bridgelabz\Project\Microservices.Ticketing.WebApi\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+D:\CS\Bridgelabz\Project\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\Bridgelabz\Project\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfoInputs.cache
+D:\CS\Bridgelabz\Project\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfo.cs
+D:\CS\Bridgelabz\Project\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.CoreCompileInputs.cache
+D:\CS\Bridgelabz\Project\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.dll
+D:\CS\Bridgelabz\Project\Microservices.Ticketing.WebApi\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.pdb

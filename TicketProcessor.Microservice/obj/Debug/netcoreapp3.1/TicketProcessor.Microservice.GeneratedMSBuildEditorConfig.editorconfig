@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TicketProcessor.Microservice
+build_property.ProjectDir = D:\CS\Bridgelabz\Project\Microservices.Ticketing.WebApi\TicketProcessor.Microservice\
